@@ -1,12 +1,12 @@
 ## Hola... Mi nombre es Valeria👋
-Soy **bibliotecaria** de formación con experiencia en **gestión documental**, **análisis de datos** y tareas administrativas.  
+Soy **bibliotecaria** de formación y tengo experiencia en **gestión documental**, **análisis de datos** y tareas administrativas.  
 Me interesa transformar la información en algo útil y accesible, ya sea organizando documentos, optimizando procesos o creando reportes a partir de datos.  
 Me siento cómoda trabajando con herramientas tecnológicas para automatizar tareas, detectar patrones y mejorar la toma de decisiones.  
-En mis proyectos he utilizado:
-- [MySQL / MongoDB / Postgresql]
-- [Python (enfocado en análisis de datos)]
-- [Power BI / Excel]
-- Sistemas Integrados de Gestión Bibliotecaria
+Algunas de las herramientas que utilicé en mis proyectos son:
+* MySQL / MongoDB / PostgreSQL
+* Python 
+* Power BI / Excel
+* Sistemas Integrados de Gestión Bibliotecaria
 
 
 
