@@ -8,7 +8,12 @@ Algunas de las herramientas que utilicé en mis proyectos son:
 * Power BI / Excel
 * Sistemas Integrados de Gestión Bibliotecaria
 
-
+## Hello... My name is Valeria👋
+I'm a **librarian** with experience in document management, data analysis, and administrative tasks. I'm passionate about transforming information into useful and accessible resources—whether by organizing documents, optimizing processes, or generating insights through data reports. I'm comfortable working with technological tools to automate tasks, identify patterns, and support better decision-making. Some of the tools I've used in my projects include:
+* MySQL / MongoDB / PostgreSQL
+* Python 
+* Power BI / Excel
+* Integrated Library Systems
 
 <!--
 **Valfg/valfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
