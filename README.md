@@ -9,7 +9,10 @@ Algunas de las herramientas que utilicé en mis proyectos son:
 * Sistemas Integrados de Gestión Bibliotecaria
 
 ## Hello... My name is Valeria👋
-I'm a **librarian** with experience in document management, data analysis, and administrative tasks. I'm passionate about transforming information into useful and accessible resources—whether by organizing documents, optimizing processes, or generating insights through data reports. I'm passionate about technological tools that can be use to automate tasks, identify patterns, and support better decision-making. Some of the tools I've used in my projects include:
+I'm a **librarian** with experience in document management, data analysis, and administrative tasks.  
+I'm passionate about transforming information into useful and accessible resources—whether by organizing documents, optimizing processes, or generating insights through data reports.  
+I'm passionate about technological tools that can be use to automate tasks, identify patterns, and support better decision-making.  
+Some of the tools I've used in my projects include:
 * MySQL / MongoDB / PostgreSQL
 * Python 
 * Power BI / Excel
