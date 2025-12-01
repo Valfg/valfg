@@ -1,22 +1,11 @@
 ## Hola... Mi nombre es Valeria👋
-Soy **bibliotecaria** y tengo experiencia en **gestión documental**, **análisis de datos** y tareas administrativas.  
-Me interesa transformar la información en algo útil y accesible, ya sea organizando documentos, optimizando procesos o creando reportes a partir de datos.  
-Me siento cómoda trabajando con herramientas tecnológicas para automatizar tareas, detectar patrones y mejorar la toma de decisiones.  
-Algunas de las herramientas que utilicé en mis proyectos son:
-* MySQL / MongoDB / PostgreSQL
-* Python 
-* Power BI / Excel
-* Sistemas Integrados de Gestión Bibliotecaria
+Mi formación y experiencia en Biblioteconomía me permiten entender el ciclo de vida completo de la información, desde su organización y catalogación (metadatos) hasta su recuperación y comunicación efectiva. Sé cómo estructurar la información para que sea accionable.  
 
-## Hello... My name is Valeria👋
-I'm a **librarian** with experience in document management, data analysis, and administrative tasks.  
-I'm passionate about transforming information into useful and accessible resources—whether by organizing documents, optimizing processes, or generating insights through data reports.  
-I'm passionate about technological tools that can be use to automate tasks, identify patterns, and support better decision-making.  
-Some of the tools I've used in my projects include:
-* MySQL / MongoDB / PostgreSQL
-* Python 
-* Power BI / Excel
-* Integrated Library Systems
+Actualmente, aplico este principio de organización al universo de los datos, complementando mi experiencia con un stack técnico en **SQL, Python (Pandas, NumPy), Power BI y estadística aplicada** para conectar la **Gobernanza de Datos** con el **Análisis de Negocio**.    
+
+Mi **objetivo**: garantizar que los datos no solo estén bien gestionados, sino que también cuenten historias claras y generen valor.
+
+### Explora mis proyectos para ver cómo combino la metodología de la información con las herramientas del análisis de datos.    
 
 <!--
 **Valfg/valfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
